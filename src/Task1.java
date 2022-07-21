@@ -14,9 +14,9 @@ public class Task1 {
 //		NOTE: Click start here. Enter iphone and search
 
 		
-		WebDriver driver = new ChromeDriver();
+		WebDriver driver = new ChromeDriver();;
 
-		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");;
 		driver.manage().window().maximize();
 		WebElement txtsrch= driver.findElement(By.id("twotabsearchtextbox"));
 		txtsrch.sendKeys("iphone");
