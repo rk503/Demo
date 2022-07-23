@@ -37,7 +37,9 @@ driver.get("https://www.snapdeal.com/");
 	
 		WebElement cont= driver.findElement(By.xpath("//*[@id=\"checkUser\"]"));
 		cont.click();
-	
+
+		System.out.println("457");
+
 		System.out.println("457");
 	}
 
