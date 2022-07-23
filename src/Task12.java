@@ -38,7 +38,7 @@ public class Task12 {
 	
 		WebElement cont= driver.findElement(By.xpath("//*[@id=\"checkUser\"]"));
 		cont.click();
-	System.out.println("");
+	System.out.println("l");
 	}
 
 }
