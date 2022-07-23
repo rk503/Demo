@@ -31,6 +31,7 @@ public class Task8 {
 	    btn.click();
 	    
 	   System.out.println("3");
+	   System.out.println("45");
 	}
 
 }
