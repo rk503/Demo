@@ -22,7 +22,7 @@ public class Task1 {
 		txtsrch.sendKeys("iphone");
 		WebElement btnclk =driver.findElement(By.id("nav-search-submit-button"));
 		btnclk.click();
-
+System.out.println("hi");
 	}
 
 }
