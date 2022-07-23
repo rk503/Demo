@@ -40,6 +40,7 @@ public class Task12 {
 		cont.click();
 	System.out.println("l");
 	System.out.println("love");
+	System.out.println("love");
 	
 	}
 
