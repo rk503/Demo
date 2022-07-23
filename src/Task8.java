@@ -30,7 +30,8 @@ public class Task8 {
 		WebElement btn =driver.findElement(By.xpath("//*[@id=\"nav-search-submit-button\"]"));
 	    btn.click();
 	    System.out.println("1");
-	   
+	    System.out.println("2");
+		  
 	}
 
 }
