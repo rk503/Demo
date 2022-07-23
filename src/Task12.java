@@ -19,7 +19,7 @@ public class Task12 {
 		System.setProperty("webdriver.chrome.driver","D:\\java tools\\chromedriver.exe");
 
 		WebDriver driver = new ChromeDriver();
-
+System.out.println("111");
 		driver.get("https://www.snapdeal.com/");
 		driver.manage().window().maximize();
 		
