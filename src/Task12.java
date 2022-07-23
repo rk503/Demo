@@ -8,8 +8,10 @@ public class Task12 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		
-	/*	QUESTION 12
+		System.out.println("hi");
+		System.out.println("hi");
+
+		/*	QUESTION 12
 		-----------
 		URL : https://www.snapdeal.com/
 
@@ -36,7 +38,7 @@ public class Task12 {
 	
 		WebElement cont= driver.findElement(By.xpath("//*[@id=\"checkUser\"]"));
 		cont.click();
-	
+	System.out.println("");
 	}
 
 }
