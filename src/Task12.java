@@ -8,7 +8,7 @@ public class Task12 {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
-		
+		System.out.println("hi");
 	/*	QUESTION 12
 		-----------
 		URL : https://www.snapdeal.com/

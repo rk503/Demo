@@ -23,14 +23,15 @@ public class Task8 {
 		driver.get("https://www.amazon.in/");
 		
 		driver.manage().window().maximize();
-		
+		System.out.println("1234");
+		   
 		WebElement txtsrch= driver.findElement(By.xpath("//*[@id=\"twotabsearchtextbox\"]"));
 		txtsrch.sendKeys("phone");
 		
 		WebElement btn =driver.findElement(By.xpath("//*[@id=\"nav-search-submit-button\"]"));
 	    btn.click();
 	    
-	   System.out.println("123");
+	   System.out.println("1234");
 	   System.out.println("45614");
 	}
 
